@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Dinshaj 👋</h1>
-<h3 align="center">Backend Developer & Solution Architect · .NET · APIs · Cloud</h3>
+<h3 align="center">Backend Developer & Solution Architect · .NET · NestJS · APIs · Cloud</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://oracohomes.com"><img src="https://img.shields.io/badge/Oraco_Homes-222222?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Oraco Homes"/></a>
+  <a href="https://www.linkedin.com/in/dinshaj/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dinshajkv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -12,10 +11,9 @@
 ### 🧑‍💻 About Me
 
 - 🛠️ Self-taught backend developer with **10+ years** of experience
-- 🏗️ Lead / architect designing scalable **.NET APIs** and **multi-tenant SaaS** systems
+- 🏗️ Lead / architect designing scalable **.NET** and **NestJS** APIs and **multi-tenant SaaS** systems
 - ☁️ Running production workloads on **Kubernetes** and **Azure**
 - 🗄️ Working daily with **PostgreSQL** and **MongoDB**
-- 🚀 Currently building **[Oraco Homes](https://oracohomes.com)** — .NET Core API, Angular & React Native
 - 📍 Based in **Kerala, India**
 - 💬 Ask me about: API design, multi-tenancy, database migrations, Kubernetes ops
 
@@ -28,6 +26,9 @@
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 **Databases**
